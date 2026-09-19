@@ -1,0 +1,6 @@
+{
+  "name": "Seraphim Nexus",
+  "description": "Adaptive daily horoscope, sovereign angel matrix, collective invocation, and spiritual coach engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
